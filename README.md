@@ -4,11 +4,5 @@ This project demonstrates how to build a spreadsheet that calculates product pri
 
 ---
 
-## 📌 Key Excel Formulas Used
+## 📌 Developed by - Junaid Ahamed
 
-### 📦 1. Shipping Costs
-
-> **Cell:** `H4`  
-> **Formula:**  
-```excel
-=F4 * $P$1
